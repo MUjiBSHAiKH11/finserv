@@ -23,9 +23,6 @@ print("Webhook URL:", webhook_url)
 print("Access Token:", access_token)
 
 
-import requests
-webhook_url= "https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/PYTHON"
-access_token=  "eyJhbGciOiJIUzI1NiJ9.eyJyZWdObyI6IlJFRzEyMzQ3IiwibmFtZSI6IkpvaG4gRG9lIiwiZW1haWwiOiJqb2huQGV4YW1wbGUuY29tIiwic3ViIjoid2ViaG9vay11c2VyIiwiaWF0IjoxNzQ2OTYwMDE4LCJleHAiOjE3NDY5NjA5MTh9.p0VnZxF6lMWBn1dOIM-ijLod0ZzzgmxpOOOW9jJMlUk"
 
 
 headers = {
